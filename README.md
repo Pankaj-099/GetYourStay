@@ -18,7 +18,7 @@ A modern and user-friendly Airbnb clone that lets users explore, book, and list 
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript (or React, if you're using it)
+- **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (with Mongoose)
 - **Authentication**: JWT or Passport.js
