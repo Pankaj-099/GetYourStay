@@ -1,7 +1,7 @@
 
 # GetYourStay 🏠
 
-A modern and user-friendly Airbnb clone that lets users explore, book, and list vacation rentals around the world. Built for seamless user experience and scalable performance.
+A modern and user-friendly WebApplication that lets users explore, book, and list vacation rentals around the world. Built for seamless user experience and scalable performance.
 
 ---
 
@@ -9,7 +9,6 @@ A modern and user-friendly Airbnb clone that lets users explore, book, and list 
 
 - 🔍 **Browse Listings**: View available stays with images, descriptions, and prices
 - 📍 **Search by Location**: Quickly find properties by city or region
-- 🗓️ **Date-based Booking**: Select check-in and check-out dates
 - 🏡 **Host Your Property**: Let users list their own homes
 - 👤 **User Authentication**: Sign up, log in, and manage bookings
 - 📱 **Responsive Design**: Fully mobile-friendly
@@ -21,8 +20,8 @@ A modern and user-friendly Airbnb clone that lets users explore, book, and list 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (with Mongoose)
-- **Authentication**: JWT or Passport.js
-- **Hosting**: GitHub, Vercel/Render
+- **Authentication**: Passport.js
+- **Hosting**: GitHub, Render
 
 ---
 
@@ -55,7 +54,7 @@ Open `http://localhost:8080` in your browser.
 
 ```
 GetYourStay/
-├── client/             # Frontend code (if separate)
+├── client/             # Frontend code
 ├── server/             # Backend code
 ├── models/             # MongoDB models
 ├── routes/             # API routes
