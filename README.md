@@ -73,12 +73,6 @@ Feel free to fork and submit a pull request.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 👨‍💻 Author
 
 **Pankaj Damale**  
